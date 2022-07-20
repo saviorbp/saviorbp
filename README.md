@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sávio Ribeiro, a **trainee im Frontend Engineer** I'm studying and perfecting myself to become a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Sávio Ribeiro, a **trainee Frontend Engineer** I'm studying and perfecting myself to become a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sávio-ribeiro-445677161)
 
