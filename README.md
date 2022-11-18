@@ -1,5 +1,3 @@
-<img align="left" width="100%" alt="about" src="./images/mario-dev.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
@@ -24,8 +22,8 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
-<table align="right" height="300px">
+<br>
+<table align="center" height="300px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
@@ -59,8 +57,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
@@ -85,6 +81,8 @@
         </b>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
@@ -109,8 +107,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
       <sub>
@@ -124,14 +120,6 @@
       <sub>
         <b>
           <pre>TypeScript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
         </b>
       </sub>
     </td>
@@ -152,18 +140,8 @@
       </sub>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
 </table> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
 <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
@@ -172,18 +150,18 @@
   <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
     <img src="./images/button/curriculo.svg" alt="currículo">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:savio.ribeiro1690@live.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
     <img src="./images/button/portfolio.svg" alt="Portfólio">
   </a> 
-  <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/saviorbp/" alt="Linkedin" target="_blank">
     <img src="./images/button/linkedin.svg" alt="linkedin">
   </a>
-  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5532999718142?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
     <img src="./images/button/whatsapp.svg" alt="Whatsapp">
   </a>
-  <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/saviorbp/" alt="Instagram" target="_blank">
     <img src="./images/button/instagram.svg" alt="Instagram">
   </a>
 </p>
@@ -210,7 +188,7 @@
     <td>
     <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
-  </a>
+    </a>
     </td>
   </tr>
   <tr>
