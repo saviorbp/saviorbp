@@ -15,9 +15,9 @@
 </table> -->
 <ul align="left">
     <li>🤩️ Amante de Tecnologia, Jogos, filmes é series 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>💻 Estudo na Faculdade <a href="https://www2.ufjf.br/ufjf/" target="_blank">UFJF</a> e nas escolas de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> é <a href="https://www.dio.me" target="_blank">DIO</a>. Atualmente estou aprendendo <b>JavaScript</b>, <b>ReactJS</b> e os frameworks <b>next.js</b> e <b>stitches</b> na Rocketseat e DIO é <b>c/c++</b> e <b>assembly</b> na UFJF 💻</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮</li><br>
+    <li>🚀 Sou um profissional altamente proativo, com uma paixão ardente por trabalhar em equipe e contribuir para um ambiente colaborativo. Minha dedicação ao desenvolvimento de sistemas responsivos é evidente na atenção meticulosa que dou à experiência do usuário e à interface do usuário, sempre buscando a excelência em IU/UX. 🚀</li><br>
+    <li>💻 Estudo na Faculdade <a href="https://www2.ufjf.br/ufjf/" target="_blank">UFJF</a> e nas escolas de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> é <a href="https://www.dio.me" target="_blank">DIO</a>. Com um conhecimento robusto em ferramentas de design como Figma e habilidades técnicas em Vue.js, Ionic, Electron e Python, estou sempre em busca de oportunidades para criar soluções inovadoras que não apenas atendam, mas superem as expectativas dos usuários. 💻</li><br>
+    <li>🔮 Acredito firmemente que meu entusiasmo e habilidade técnica serão ativos valiosos para qualquer equipe e projeto. 🔮</li><br>
 </ul>
 <br>
 
@@ -92,10 +92,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="VueJS icon"/><br>
       <sub>
         <b>
-          <pre>React</pre>
+          <pre>Vue</pre>
         </b>
       </sub>
     </td>
@@ -147,7 +147,7 @@
 <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://1drv.ms/b/s!AhsGqvf9m9xdl8YY5LO8uV75-ubNAg?e=0FYxRL" alt="currículo">
+  <a href="[https://1drv.ms/b/s!AhsGqvf9m9xdl8YY5LO8uV75-ubNAg?e=0FYxRL](https://drive.google.com/file/d/1bvFD08xOXFaSdvYeE5Nh5gq-Q_lBdhiH/view?usp=sharing)" alt="currículo">
     <img src="./images/button/curriculo.svg" alt="currículo">
   </a>
   <a href = "mailto:savio.ribeiro1690@live.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
@@ -216,14 +216,16 @@
 <br>
 
 <h2 align="center">
-<details open> */
+<details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=saviorbp&theme=tokyo-night&hide_border=true">
-<br><br>
+
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorbp&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=saviorbp&show_icons=true&custom_title=Saviorbp's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=saviorbp&theme=tokyonight&hide_border=true">
-</div>
+
+<p align="center">
+  <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=saviorbp&show_icons=true&custom_title=Saviorbp's%20Github%20Stats&theme=tokyonight&hide_border=true">
+  <br>
+  <img height="200px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=saviorbp&theme=tokyonight&hide_border=true">
+</p>
+
 </details>
