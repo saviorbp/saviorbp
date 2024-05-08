@@ -219,9 +219,9 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorbp&langs_count=8&theme=tokyonight&hide_border=true">
-
+<p align="center">
+<img align="left" height="400px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorbp&langs_count=8&theme=tokyonight&hide_border=true">
+</p>
 <p align="center">
   <img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=saviorbp&show_icons=true&custom_title=Saviorbp's%20Github%20Stats&theme=tokyonight&hide_border=true">
   <br>
