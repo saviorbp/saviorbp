@@ -147,7 +147,7 @@
 <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="[https://1drv.ms/b/s!AhsGqvf9m9xdl8YY5LO8uV75-ubNAg?e=0FYxRL](https://drive.google.com/file/d/1rwwua7oaXi7PS38cpURmyOqc5LWOFaFJ/view?usp=drive_link)" alt="currículo">
+  <a href="https://drive.google.com/file/d/1rwwua7oaXi7PS38cpURmyOqc5LWOFaFJ/view?usp=drive_link" alt="currículo">
     <img src="./images/button/curriculo.svg" alt="currículo">
   </a>
   <a href = "mailto:savio.ribeiro1690@live.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
